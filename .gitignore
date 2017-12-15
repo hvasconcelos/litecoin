@@ -71,6 +71,8 @@ src/qt/test/moc*.cpp
 *.lo
 *.la
 
+dist
+
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
